@@ -1,0 +1,10 @@
+E:\مجلد جديد (2)\Documents\Visual Studio 2013\Projects\RZ-RAT\RZ-RAT\bin\Debug\RZ-RAT.exe
+E:\مجلد جديد (2)\Documents\Visual Studio 2013\Projects\RZ-RAT\RZ-RAT\bin\Debug\RZ-RAT.pdb
+E:\مجلد جديد (2)\Documents\Visual Studio 2013\Projects\RZ-RAT\RZ-RAT\obj\Debug\RZ_RAT.Form1.resources
+E:\مجلد جديد (2)\Documents\Visual Studio 2013\Projects\RZ-RAT\RZ-RAT\obj\Debug\RZ_RAT.Properties.Resources.resources
+E:\مجلد جديد (2)\Documents\Visual Studio 2013\Projects\RZ-RAT\RZ-RAT\obj\Debug\RZ-RAT.csproj.GenerateResource.Cache
+E:\مجلد جديد (2)\Documents\Visual Studio 2013\Projects\RZ-RAT\RZ-RAT\obj\Debug\RZ-RAT.exe
+E:\مجلد جديد (2)\Documents\Visual Studio 2013\Projects\RZ-RAT\RZ-RAT\obj\Debug\RZ-RAT.pdb
+E:\مجلد جديد (2)\Documents\Visual Studio 2013\Projects\RZ-RAT\RZ-RAT\obj\Debug\RZ-RAT.csprojResolveAssemblyReference.cache
+E:\مجلد جديد (2)\Documents\Visual Studio 2013\Projects\RZ-RAT\RZ-RAT\obj\Debug\RZ_RAT.FileManger.resources
+E:\مجلد جديد (2)\Documents\Visual Studio 2013\Projects\RZ-RAT\RZ-RAT\obj\Debug\RZ_RAT.ProcessForm.resources
